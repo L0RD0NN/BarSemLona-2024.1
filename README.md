@@ -4,13 +4,13 @@ Disciplina de desenvolvimento Ágil
 Este projeto tem como objetivo desenvolver um sistema de gerenciamento de estoque para o Wolves, um time de futebol americano da nossa comunidade. A finalidade principal é oferecer uma maneira eficiente de controlar os equipamentos que entram e saem do estoque, além de gerenciar as reservas e devoluções de forma organizada.
 
 ## Funcionalidades Principais
-### Controle de Entradas e Saídas: O sistema permitirá registrar todas as entradas e saídas de equipamentos do estoque. Isso inclui a data, o tipo de equipamento e a quantidade.
+Controle de Entradas e Saídas: O sistema permitirá registrar todas as entradas e saídas de equipamentos do estoque. Isso inclui a data, o tipo de equipamento e a quantidade.
 
-### Registro de Responsáveis: Cada transação no estoque será associada a uma pessoa responsável. Isso facilitará a rastreabilidade e responsabilização em caso de problemas.
+Registro de Responsáveis: Cada transação no estoque será associada a uma pessoa responsável. Isso facilitará a rastreabilidade e responsabilização em caso de problemas.
 
-### Sistema de Reservas: Os membros do time poderão fazer reservas de equipamentos para datas específicas. Isso garantirá que os recursos necessários estejam disponíveis quando necessário.
+Sistema de Reservas: Os membros do time poderão fazer reservas de equipamentos para datas específicas. Isso garantirá que os recursos necessários estejam disponíveis quando necessário.
 
-### Registro de Devoluções: Após a utilização dos equipamentos reservados, os membros poderão registrar sua devolução no sistema. Isso manterá um histórico preciso e atualizado do estoque.
+Registro de Devoluções: Após a utilização dos equipamentos reservados, os membros poderão registrar sua devolução no sistema. Isso manterá um histórico preciso e atualizado do estoque.
 
 ## Tecnologias Utilizadas
 Este projeto será desenvolvido principalmente utilizando as seguintes tecnologias:
