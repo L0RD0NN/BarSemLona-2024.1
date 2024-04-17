@@ -1,7 +1,5 @@
 # BarSemLona-2024.1
 
-![Logo] (Bar sem lona logo.png)
-
 Disciplina de desenvolvimento Ágil - 2024.1
 
 Igor Gustavo Mainardes
