@@ -1,5 +1,5 @@
 # BarSemLona-2024.1
-![Logo Bar Sem Lona] (BarSemLona-2024.1/Bar sem lona logo.png)
+![Logo Bar Sem Lona] (BarSemLona-2024.1/ Bar sem lona logo.png)
 
 Disciplina de desenvolvimento Ágil - 2024.1
 
