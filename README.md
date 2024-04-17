@@ -1,10 +1,15 @@
 # BarSemLona-2024.1
 Disciplina de desenvolvimento Ágil - 2024.1
 Igor Gustavo Mainardes
+
 Leonardo Rodrigues de Oliveira
+
 Jhonatan Bruno Viza Atahuichy
+
 Gabriel Borges
+
 Mateus Puertas
+
 # Sistema de Gerenciamento de Estoque do Wolves Football Team
 Este projeto tem como objetivo desenvolver um sistema de gerenciamento de estoque para o Wolves, um time de futebol americano da nossa comunidade. A finalidade principal é oferecer uma maneira eficiente de controlar os equipamentos que entram e saem do estoque, além de gerenciar as reservas e devoluções de forma organizada.
 
