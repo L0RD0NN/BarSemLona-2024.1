@@ -31,14 +31,6 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF02</td>
         </tr>
         <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário regular, desejo acessar os outros perfis existentes para ver o conteúdo deles</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes aos visitantes</li><li> Os vídeos postados devem aparecer ao entrar no perfil para que seja possível seu acesso</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
-        </tr>
-        <tr>
             <span id="ustory-03"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como membro do time Wolves, quero poder verificar o histórico de entradas e saídas de equipamentos do estoque.</td>
