@@ -46,14 +46,6 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
         </tr>
-        <tr>
-            <span id="ustory-05"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US05</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como membro do time Wolves, quero receber notificações sobre a devolução de equipamentos reservados.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve enviar notificações automáticas quando um equipamento reservado for devolvido.</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF05</td>
-        </tr>
 </table>
 
 <div style="text-align: center">
