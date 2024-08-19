@@ -2,7 +2,7 @@
 
 Disciplina de desenvolvimento Ágil - 2024.1
 
-![Logo do Grupo](./assets/Logo.png)
+![Logo do Grupo](Logo.png)
 
 ## Integrantes
 
