@@ -2,7 +2,7 @@
 
 Disciplina de desenvolvimento Ágil - 2024.1
 
-![Logo do Grupo]([./assets/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwasdefy.com%2Fcompetitions%2Fa5d61d03-871a-4438-9ebb-01ba8aeccb70%2Fresults%2Fphases%2F1%2Fgroups%2F1%2Fmatches%2F4&psig=AOvVaw1qK9XtRDCCQxuADVuHd5n2&ust=1724114684390000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj_7Nzp_4cDFQAAAAAdAAAAABAd))
+![Logo do Grupo](./assets/Logo.png)
 
 ## Integrantes
 
