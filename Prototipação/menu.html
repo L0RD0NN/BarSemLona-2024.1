@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de Seleção</title>
+    <style>
+        body {
+            background-image: url(Imagens/neon.jpg);
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: sans-serif;
+        }
+        .menu{
+            display: flex;
+            background-color: white;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 40vw;
+            height: 80vh;
+            border-radius: 20px;
+            padding: 20px;
+        }
+        .menuBtn{
+            width: 300px;
+            height: 68px;
+            border-radius: 10px;
+            padding: 8px;
+            margin: 15px;
+            font-size: 20px;
+            font-weight: bold;
+            border: 1px solid #64aff5;
+            background-color: rgb(5, 3, 80);
+            color: white;
+            cursor: pointer;
+            
+        }
+        .containerBtn{
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            top: -35px;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu">
+        <img src="imagens/wolves.png" alt="Wolves Logo" class="logo" style="width: 180px; height: auto;">
+        <p><h1>Menu De Seleção</h1></p>
+        <div class="containerBtn">
+            <a href="Reservar.html"><input class="menuBtn" type="button" value="Reservar"></a>
+            <a href="Devolver.html"><input class="menuBtn" type="button" value="Devolver"></a>
+        </div>
+    </div>
+</body>
+</html>
