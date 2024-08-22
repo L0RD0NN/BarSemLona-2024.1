@@ -15,7 +15,7 @@ body {
 
 body::before {
     content: "";
-    position: fixed; /* Mudado para fixed para cobrir toda a tela sem afetar a rolagem */
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -23,7 +23,7 @@ body::before {
     background-image: url(Imagens/neon.jpg);
     background-size: cover;
     background-position: center;
-    z-index: -1; /* Mantém a imagem de fundo atrás do conteúdo do body */
+    z-index: -1;
 }
 
 .container{
@@ -49,7 +49,7 @@ body::before {
   scrollbar-color: #12A8FF #EBEBEB;
 }
 
-/* Chrome, Edge and Safari */
+
 *::-webkit-scrollbar {
     height: 11px;
     width: 11px;
@@ -109,7 +109,7 @@ body::before {
     visibility: hidden;
     bottom: -8px;
 }
-/* Estilos para o botão de envio */
+
 .form button{
     background-color: #0048ff;
     color: #fff;
@@ -122,19 +122,19 @@ body::before {
     margin-top: 14px;
 }
 
-/* Estilo para o botão de envio quando o formulário for válido */
+
 button[type="submit"].success {
   background-color: #008000; /* Verde */
   color: white;
 }
 
-/* Estilo para o botão de envio quando o formulário for inválido */
+
 button[type="submit"].error {
   background-color: #ff0000; /* Vermelho */
   color: white;
 }
 
-/* Estilo para a mensagem de erro */
+
 .form-content.error a {
   color: #ff0000; 
   font-size: 0.8em;
