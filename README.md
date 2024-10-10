@@ -1,16 +1,6 @@
 # BarSemLona-2024.1
 
-Disciplina de desenvolvimento Ágil - 2024.1
-
 ![Logo do Grupo](Logo.png)
-
-## Integrantes
-
-- [Igor Gustavo Mainardes](https://github.com/L0RD0NN)
-- [Leonardo Rodrigues de Oliveira](https://github.com/leololeo630)
-- [Jhonatan Bruno Viza Atahuichy](https://github.com/jhonViza)
-- [Gabriel Borges](https://github.com/GabrielBorgesb)
-- [Mateus Puertas](https://github.com/mateuspuertas)
 
 # Sistema de Gerenciamento de Estoque do Wolves Football Team
 Este projeto tem como objetivo desenvolver um sistema de gerenciamento de estoque para o Wolves, um time de futebol americano da nossa comunidade. A finalidade principal é oferecer uma maneira eficiente de controlar os equipamentos que entram e saem do estoque, além de gerenciar as reservas e devoluções de forma organizada.
